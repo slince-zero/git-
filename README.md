@@ -9,7 +9,7 @@
   - svn,vss,vcs.... git
   - 有必要，因为人工的去处理不同的版本，做相应备份会很麻烦。
   - Git是linux之父当年为了维护linux---linus之前也是手动维护合并把文件发给Linus
-  - linus自己写了一个版本管理的工具(Git)
+  - linux自己写了一个版本管理的工具(Git)
 
 ## Git安装
 
